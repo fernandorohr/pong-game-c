@@ -1,0 +1,18 @@
+#define TRUE 1
+#define FALSE 0
+
+#define WINDOW_WIDTH 800
+#define WINDOW_HEIGHT 600
+
+#define FPS 60
+#define FRAME_TARGET_TIME (1000/FPS)
+
+#define BALL_WIDTH 15
+#define BALL_HEIGHT 15
+#define PLAYER_WIDTH 15
+#define PLAYER_HEIGHT 90
+#define NET_WIDTH 6
+#define NET_HEIGHT 6
+
+#define BALL_SPEED 200
+#define PLAYER_SPEED 600

@@ -1,0 +1,9 @@
+﻿  Main.c
+C:\Users\ferna\source\repos\game_loop_project\game_loop_project\Main.c(240,12): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ferna\source\repos\game_loop_project\game_loop_project\Main.c(179,1): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ferna\source\repos\game_loop_project\game_loop_project\Main.c(189,1): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ferna\source\repos\game_loop_project\game_loop_project\Main.c(201,1): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ferna\source\repos\game_loop_project\game_loop_project\Main.c(214,1): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ferna\source\repos\game_loop_project\game_loop_project\Main.c(226,1): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ferna\source\repos\game_loop_project\game_loop_project\Main.c(242,1): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+  game_loop_project.vcxproj -> C:\Users\ferna\source\repos\game_loop_project\Debug\game_loop_project.exe
